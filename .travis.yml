@@ -9,7 +9,8 @@ python:
 install: 
   - pip install coverage
   - pip install codecov
-
+  - pip install releases
+  
 script: coverage run --source=algopy setup.py test
 
 after_success: 
