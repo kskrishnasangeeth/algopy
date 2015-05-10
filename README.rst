@@ -21,9 +21,10 @@ same time write clean and elegant code. The problems are curated from
 sources like GeekforGeeks , hackerrank, SPOJ etc. Check out the issues for 
 the current list of problems.
  
-The inspiration for this project comes from *Libcipher* (http://www.github.com/chennaipy/libcipher)
-a project which I was lucky to participate as part of initiative by the Chennai Python user
-group which taught me a good deal in python best practices.
+The inspiration for this project comes from `Libcipher 
+<http://www.github.com/chennaipy/libcipher>_` a project which I was lucky to participate 
+as part of initiative by the Chennai Python user group 
+which taught me a good deal in python best practices.
  
 
 Development
