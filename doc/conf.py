@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'AlgoPy'
+project = u'algopy'
 copyright = u'2015, Krishna Sangeeth KS.'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'algopy.tex', u'AlgoPy Documentation',
+  ('index', 'algopy.tex', u'algopy Documentation',
    u'Krishna Sangeeth KS', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'AlgoPy', u'AlgoPy Documentation',
+    ('index', 'algopy', u'algopy Documentation',
      [u'Krishna Sangeeth KS.'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'algopy', u'AlgoPy Documentation',
-   u'Krishna Sangeeth KS', 'AlgoPy', 'One line description of project.',
+  ('index', 'algopy', u'algopy Documentation',
+   u'Krishna Sangeeth KS', 'algopy', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -258,4 +258,4 @@ texinfo_documents = [
 #texinfo_no_detailmenu = False
 
 # releases plugin settings
-releases_github_path = 'kskrishnasangeeth/AlgoPy'
+releases_github_path = 'kskrishnasangeeth/algopy'
