@@ -14,7 +14,7 @@ setup(name='algopy',
       author_email='krishna@sangeeth.net',
       url='http://github.com/kskrishnasangeeth/AlgoPy',
       license="BSD 2-Clause",
-      packages=['AlgoPy'],
+      packages=['algopy'],
       test_suite="tests",
       classifiers=[
           'Development Status :: 1 - Planning',
