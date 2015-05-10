@@ -14,7 +14,12 @@ AlgoPy
 
 The idea behind this project is to solve Algorithm problems and puzzles
 in Python by following TDD and good programming guidelines such as using
-docstring , checking for PEP8 violations etc.
+docstring, checking for PEP8 violations etc.
+
+Test Driven Development (TDD) is an intutitve way of development in which
+we write Tests first and then write the implementation. Through codecov,
+we are tracking the code coveragee for tests and the expectation is 100%
+coverage. 
 
 The key goal here is to learn by solving some of these problems yet at the
 same time write clean and elegant code. The problems are curated from 
