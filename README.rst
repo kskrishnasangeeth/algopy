@@ -24,7 +24,7 @@ the current list of problems.
 The inspiration for this project comes from **Libcipher**
 a project which I was lucky to participate as part of 
 initiative by the Chennai Python user group 
-which taught me a good deal in python best practices.
+where I was able to learn some good stuff in python best practices.
  
 
 Development
