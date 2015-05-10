@@ -6,11 +6,4 @@ python:
   - "3.3"
   - "3.4"
 
-install: 
-  - pip install coverage
-  - pip install codecov
 
-script: coverage run --source=algopy setup.py test
-
-after_success: 
-  - codecov
