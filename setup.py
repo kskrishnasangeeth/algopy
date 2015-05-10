@@ -5,7 +5,7 @@ from setuptools import setup
 def readme():
     return open("README.rst").read()
 
-setup(name='algoPy',
+setup(name='algopy',
       version='0.1.0',
       description=("Python package solutions to algorithm Problems"
                    "where questions are collected from various sources"),
