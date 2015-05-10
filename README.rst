@@ -1,14 +1,14 @@
 AlgoPy
 =========
 
-.. image:: https://travis-ci.org/kskrishnasangeeth/AlgoPy.svg?branch=master
-   :target: https://travis-ci.org/kskrishnasangeeth/AlgoPy
+.. image:: https://travis-ci.org/kskrishnasangeeth/algopy.svg?branch=master
+   :target: https://travis-ci.org/kskrishnasangeeth/algopy
 
-.. image:: http://img.shields.io/codecov/c/github/kskrishnasangeeth/AlgoPy.svg?style=flat
-   :target: https://codecov.io/github/kskrishnasangeeth/AlgoPy?branch=master
+.. image:: http://img.shields.io/codecov/c/github/kskrishnasangeeth/algopy.svg?style=flat
+   :target: https://codecov.io/github/kskrishnasangeeth/algopy?branch=master
 
-.. image:: https://readthedocs.org/projects/AlgoPy/badge/?version=latest
-   :target: https://readthedocs.org/projects/AlgoPy/?badge=latest
+.. image:: https://readthedocs.org/projects/algopy/badge/?version=latest
+   :target: https://readthedocs.org/projects/algopy/?badge=latest
    :alt: Documentation Status
 
 
