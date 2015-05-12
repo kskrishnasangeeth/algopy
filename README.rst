@@ -14,6 +14,8 @@ AlgoPy
 .. image:: https://readthedocs.org/projects/algopy/badge/?version=latest
    :target: https://readthedocs.org/projects/algopy/?badge=latest
    :alt: Documentation Status
+.. image:: https://www.codacy.com/project/badge/c472528a8fa840799117be1f553367fd
+   :target: https://www.codacy.com/app/kskrishnasangeeth/algopy
 
 
 The idea behind this project is to solve Algorithm problems and puzzles
